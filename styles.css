@@ -341,7 +341,7 @@ transform: translateY(-8px) rotate(-45deg);
 }
 }
 
-@media screen and (max-width:480px){
+@media screen and (max-width:580px){
 	.main__content h1 {
 	font-size: 2rem;
 	margin-top: 3rem;
