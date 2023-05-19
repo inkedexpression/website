@@ -1,0 +1,49 @@
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	margin-bottom: 10px;
+	color: #131313;
+	font-family: 'kumbh sans', sans-serif;
+	background-color: #f77062;
+	background-image: linear-gradient(to top,#ff0844 0%,#ffb199 100%);
+	background-size: 100%;
+	-webkit-background-clip:text;
+	-moz-background-clip:text;
+	-webkit-text-fill-color:transparent;
+	-moz-text-fill-color:transperent;
+	display: flex;
+	align-items: center;
+	cursor: pointer;
+	text-decoration: none;
+	font-size: 2rem;
+	justify-content: center;
+	width: 100%;
+}
+
+main {
+	margin: 20px;
+}
+
+article {
+	margin-bottom: 40px;
+}
+
+h2 {
+	color: #333;
+}
+
+p {
+	line-height: 1.5;
+}
+
+footer {
+	background-color: #333;
+	color: #fff;
+	padding: 10px;
+	text-align: center;
+	font-size: 12px;
+}
